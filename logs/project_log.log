@@ -111,3 +111,48 @@
 2025-01-26 16:53:15.174 | INFO     | __main__:main:62 - Standard Deviation: 0.60
 2025-01-26 16:53:15.174 | INFO     | __main__:main:64 - Exiting MAIN function.
 2025-01-26 16:53:15.174 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-03 10:03:22.384 | INFO     | utils_logger:<module>:39 - Logging to file: logs/project_log.log
+2025-02-03 10:03:22.384 | INFO     | __main__:<module>:72 - STATS - Ready for work.
+2025-02-03 10:03:22.384 | INFO     | __main__:main:55 - Starting MAIN function.
+2025-02-03 10:03:22.384 | INFO     | __main__:main:58 - Scores: [3.5, 4.0, 4.8, 2.9, 3.7, 4.3, 3.8]
+2025-02-03 10:03:22.384 | INFO     | __main__:main:59 - Minimum: 2.90
+2025-02-03 10:03:22.384 | INFO     | __main__:main:60 - Maximum: 4.80
+2025-02-03 10:03:22.384 | INFO     | __main__:main:61 - Mean: 3.86
+2025-02-03 10:03:22.384 | INFO     | __main__:main:62 - Standard Deviation: 0.60
+2025-02-03 10:03:22.384 | INFO     | __main__:main:64 - Exiting MAIN function.
+2025-02-03 10:03:22.384 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-03 10:03:35.782 | INFO     | utils_logger:<module>:39 - Logging to file: logs/project_log.log
+2025-02-03 10:03:35.782 | INFO     | __main__:<module>:52 - CHARTS - Ready for work.
+2025-02-03 10:03:35.782 | INFO     | __main__:main:26 - Starting main function.
+2025-02-03 10:03:36.010 | INFO     | __main__:main:31 - Loaded penguins dataset successfully.
+2025-02-03 10:03:36.552 | INFO     | __main__:main:39 - NOTE: Close the chart window to continue and exit the script.
+2025-02-03 10:03:45.960 | INFO     | __main__:main:41 - Exiting main function.
+2025-02-03 10:03:45.961 | INFO     | __main__:<module>:54 - CHARTS - Execution complete.
+2025-02-03 10:03:49.037 | INFO     | utils_logger:<module>:39 - Logging to file: logs/project_log.log
+2025-02-03 10:03:49.037 | INFO     | __main__:<module>:79 - HELLO - Ready for work.
+2025-02-03 10:03:49.038 | INFO     | __main__:main:44 - Starting main function.
+2025-02-03 10:04:03.060 | INFO     | __main__:main:68 - Hello, foster! Welcome to Python programming.
+2025-02-03 10:04:07.580 | INFO     | __main__:main:68 - Hola, foster! Bienvenido a la programación en Python.
+2025-02-03 10:04:07.772 | INFO     | __main__:main:68 - 你好, foster! 欢迎学习Python编程.
+2025-02-03 10:04:07.910 | INFO     | __main__:main:68 - Bonjour, foster! Bienvenue à la programmation Python.
+2025-02-03 10:04:08.060 | INFO     | __main__:main:68 - Hallo, foster! Willkommen bei der Python-Programmierung.
+2025-02-03 10:04:08.184 | INFO     | __main__:main:68 - హలో, foster! Python ప్రోగ్రామింగ్‌లోకి స్వాగతం.
+2025-02-03 10:04:08.348 | INFO     | __main__:main:68 - Hei, foster! Velkommen til Python-programmering.
+2025-02-03 10:04:08.497 | INFO     | __main__:main:72 - Exiting main function.
+2025-02-03 10:04:08.497 | INFO     | __main__:<module>:81 - HELLO - Execution complete.
+2025-02-03 10:07:43.392 | INFO     | utils_logger:<module>:39 - Logging to file: logs/project_log.log
+2025-02-03 10:07:43.393 | INFO     | __main__:<module>:72 - HELLO - Ready for work.
+2025-02-03 10:07:43.393 | INFO     | __main__:main:43 - Starting main function.
+2025-02-03 10:07:55.906 | INFO     | __main__:main:61 - Great choice, lindsay! blue is a wonderful color.
+2025-02-03 10:07:57.265 | INFO     | __main__:main:65 - Exiting main function.
+2025-02-03 10:07:57.265 | INFO     | __main__:<module>:74 - HELLO - Execution complete.
+2025-02-03 10:13:31.724 | INFO     | utils_logger:<module>:39 - Logging to file: logs/project_log.log
+2025-02-03 10:13:31.724 | INFO     | __main__:<module>:72 - STATS - Ready for work.
+2025-02-03 10:13:31.724 | INFO     | __main__:main:55 - Starting MAIN function.
+2025-02-03 10:13:31.724 | INFO     | __main__:main:58 - Scores: [83.7, 93.2, 79.0, 90.5, 98.6, 86.3, 89.7]
+2025-02-03 10:13:31.724 | INFO     | __main__:main:59 - Minimum: 79.00
+2025-02-03 10:13:31.724 | INFO     | __main__:main:60 - Maximum: 98.60
+2025-02-03 10:13:31.725 | INFO     | __main__:main:61 - Mean: 88.71
+2025-02-03 10:13:31.725 | INFO     | __main__:main:62 - Standard Deviation: 6.42
+2025-02-03 10:13:31.725 | INFO     | __main__:main:64 - Exiting MAIN function.
+2025-02-03 10:13:31.725 | INFO     | __main__:<module>:80 - STATS - Execution complete.
